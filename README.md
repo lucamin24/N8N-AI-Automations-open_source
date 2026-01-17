@@ -6,3 +6,6 @@ A few N8N Automations everyone can use to automate workflows over a few director
 - API_webhooks
 - Automation
 - Communication
+etc
+
+I'm keeping open-sourced just Airtable ones for now.
